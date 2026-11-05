@@ -20,13 +20,14 @@
         "mods"
       ],
       "news": [],
-      "background": "",
+      "background": "https://github.com/tiziypunto0-dotcom/galaxy-launcher-data/releases/download/ev-tizafio-2-4631c7/background-388ebbe995d0ce83be61bbc4b60d96adcad65315.webp",
       "icon": "",
       "order": 0,
       "filesVersion": 0,
       "files": [],
       "releaseTag": "ev-tizafio-2-4631c7",
-      "createdAt": "2026-11-05T19:40:33.350Z"
+      "createdAt": "2026-11-05T19:40:33.350Z",
+      "backgroundAsset": "background-388ebbe995d0ce83be61bbc4b60d96adcad65315.webp"
     }
   ]
 }
