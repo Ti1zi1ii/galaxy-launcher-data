@@ -141,13 +141,14 @@
         "mods"
       ],
       "news": [],
-      "background": "",
+      "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/background-87b600ac57bebc4d94a2bbe349ea10cca20b05d1.png",
       "icon": "",
       "order": 1,
       "filesVersion": 0,
       "files": [],
       "releaseTag": "ev-vvbt-2-fef196",
-      "createdAt": "2026-11-05T20:34:06.832Z"
+      "createdAt": "2026-11-05T20:34:06.832Z",
+      "backgroundAsset": "background-87b600ac57bebc4d94a2bbe349ea10cca20b05d1.png"
     }
   ]
 }
