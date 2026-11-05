@@ -121,6 +121,33 @@
       "backgroundAsset": "background-388ebbe995d0ce83be61bbc4b60d96adcad65315.webp",
       "iconAsset": "icon-5262d4393cf6bab379add806e79a86efc8e2ddd5.png",
       "updatedAt": "2026-11-05T20:09:49.507Z"
+    },
+    {
+      "id": "vvbt-2-fef196",
+      "name": "VVBT 2",
+      "tag": "Solo invitados",
+      "description": "",
+      "mcVersion": "1.20.1",
+      "loader": "forge",
+      "loaderVersion": "",
+      "serverHost": "",
+      "serverPort": 25565,
+      "access": "invite",
+      "invited": [],
+      "visible": true,
+      "status": "activo",
+      "recommendedRamMB": 6144,
+      "strictFolders": [
+        "mods"
+      ],
+      "news": [],
+      "background": "",
+      "icon": "",
+      "order": 1,
+      "filesVersion": 0,
+      "files": [],
+      "releaseTag": "ev-vvbt-2-fef196",
+      "createdAt": "2026-11-05T20:34:06.832Z"
     }
   ]
 }
