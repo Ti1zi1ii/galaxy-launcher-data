@@ -150,8 +150,303 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/background-87b600ac57bebc4d94a2bbe349ea10cca20b05d1.png",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/icon-0eed87abd1dfe22f9535ed697b19627335ff5258.png",
       "order": 1,
-      "filesVersion": 0,
-      "files": [],
+      "filesVersion": 1,
+      "files": [
+        {
+          "path": "Essential_1-3-10-9_fabric_1-21-11.jar.disabled",
+          "sha1": "6c3cbfdfd640730b17a432deb52e887c3cdbfddd",
+          "size": 53071851,
+          "asset": "6c3cbfdfd640730b17a432deb52e887c3cdbfddd.disabled"
+        },
+        {
+          "path": "mods/3d-armor-0.9.4.1-mod.jar",
+          "sha1": "24eebd039a423baa00cc8289283ea4003804a145",
+          "size": 306462,
+          "asset": "24eebd039a423baa00cc8289283ea4003804a145.jar"
+        },
+        {
+          "path": "mods/appleskin-fabric-mc1.21.11-3.0.8.jar",
+          "sha1": "441fdbf4e9c34fb61517ceb8e15618950dc4d314",
+          "size": 180107,
+          "asset": "441fdbf4e9c34fb61517ceb8e15618950dc4d314.jar"
+        },
+        {
+          "path": "mods/architectury-19.0.1-fabric.jar",
+          "sha1": "2d40563f7e36f7a03f094031aeaacb175117928e",
+          "size": 568474,
+          "asset": "2d40563f7e36f7a03f094031aeaacb175117928e.jar"
+        },
+        {
+          "path": "mods/better-clouds-1.13.5-beta+1.21.11-fabric.rev.a60dfa0.jar",
+          "sha1": "e052bf5db725b125c6d6b833b0284b6d2aeaf9f5",
+          "size": 815249,
+          "asset": "e052bf5db725b125c6d6b833b0284b6d2aeaf9f5.jar"
+        },
+        {
+          "path": "mods/CameraOverhaul-v2.1.1-fabric+mc[1.21.11].jar",
+          "sha1": "84d08001f3c986b3e5a20e4467c294c9606ae53a",
+          "size": 140031,
+          "asset": "84d08001f3c986b3e5a20e4467c294c9606ae53a.jar"
+        },
+        {
+          "path": "mods/chatanimation-fabric-1.21.11-1.1.3.jar",
+          "sha1": "b6ef489a24c2a8cb3db90e8b8d924d17c8b45c9f",
+          "size": 380840,
+          "asset": "b6ef489a24c2a8cb3db90e8b8d924d17c8b45c9f.jar"
+        },
+        {
+          "path": "mods/classicfarlands-1.2.0+mc1.21.11.jar",
+          "sha1": "758e25baf8758b65f9105888aa2e2a0ec74f51ce",
+          "size": 453689,
+          "asset": "758e25baf8758b65f9105888aa2e2a0ec74f51ce.jar"
+        },
+        {
+          "path": "mods/cloth-config-21.11.153-fabric.jar",
+          "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
+          "size": 1148427,
+          "asset": "4c224606a963bce223db5b27edb4959ecf40d4ee.jar"
+        },
+        {
+          "path": "mods/CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar",
+          "sha1": "45720c9f59c67bcceddf062d21aec743a94856c4",
+          "size": 1392373,
+          "asset": "45720c9f59c67bcceddf062d21aec743a94856c4.jar"
+        },
+        {
+          "path": "mods/Drip Sounds-0.5.2+1.21.10-Fabric.jar",
+          "sha1": "2e3d5b4dedfbe98cca53cd9e23f61aec1679ef6b",
+          "size": 57484,
+          "asset": "2e3d5b4dedfbe98cca53cd9e23f61aec1679ef6b.jar"
+        },
+        {
+          "path": "mods/dynamic-fps-3.11.6+minecraft-1.21.11-fabric.jar",
+          "sha1": "2e5ab45e69b43812491cfa34f8f7a4ce7623c233",
+          "size": 219961,
+          "asset": "2e5ab45e69b43812491cfa34f8f7a4ce7623c233.jar"
+        },
+        {
+          "path": "mods/entity_model_features-3.2.4-1.21.11-fabric.jar",
+          "sha1": "fb87711a8252c4b54908c589e3c13b00a767808e",
+          "size": 581295,
+          "asset": "fb87711a8252c4b54908c589e3c13b00a767808e.jar"
+        },
+        {
+          "path": "mods/entity_texture_features_1.21.11-fabric-7.1.jar",
+          "sha1": "1d26dbb21dd4f17adbdb54f077334634f708a3d4",
+          "size": 744971,
+          "asset": "1d26dbb21dd4f17adbdb54f077334634f708a3d4.jar"
+        },
+        {
+          "path": "mods/entityculling-fabric-1.10.2-mc1.21.11.jar",
+          "sha1": "07425f2321600143113f02a3cc19900d6560244f",
+          "size": 1604207,
+          "asset": "07425f2321600143113f02a3cc19900d6560244f.jar"
+        },
+        {
+          "path": "mods/fabric-api-0.141.4+1.21.11.jar",
+          "sha1": "13d3885dfec40313e2b3bf9ee639353272b9b48a",
+          "size": 2413332,
+          "asset": "13d3885dfec40313e2b3bf9ee639353272b9b48a.jar"
+        },
+        {
+          "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+          "sha1": "2bc17bb4275cc70a12e4ac35d139a71a30845720",
+          "size": 8076848,
+          "asset": "2bc17bb4275cc70a12e4ac35d139a71a30845720.jar"
+        },
+        {
+          "path": "mods/fast-ip-ping-v1.0.11-mc1.21.11-fabric.jar",
+          "sha1": "f40159e00187cdd12653f460dc9cd1bdf18d0ba5",
+          "size": 10200,
+          "asset": "f40159e00187cdd12653f460dc9cd1bdf18d0ba5.jar"
+        },
+        {
+          "path": "mods/fastquit-3.1.3+mc1.21.11.jar",
+          "sha1": "9ba127357e1fc9ff800496250fb510f70f394714",
+          "size": 61123,
+          "asset": "9ba127357e1fc9ff800496250fb510f70f394714.jar"
+        },
+        {
+          "path": "mods/ferritecore-8.2.0-fabric.jar",
+          "sha1": "c2e2f5e008f5bc9f401dfad8ca94909917006b65",
+          "size": 80138,
+          "asset": "c2e2f5e008f5bc9f401dfad8ca94909917006b65.jar"
+        },
+        {
+          "path": "mods/fwa+1.21.11-1.2.27.jar",
+          "sha1": "f6bdd8263700405023e6474db2bc136495fa41ab",
+          "size": 186171,
+          "asset": "f6bdd8263700405023e6474db2bc136495fa41ab.jar"
+        },
+        {
+          "path": "mods/HMI 5.1.1 (1.21.11).jar",
+          "sha1": "cb8c8301fcd51ed255a3d77bfcb85a0426d1a222",
+          "size": 860881,
+          "asset": "cb8c8301fcd51ed255a3d77bfcb85a0426d1a222.jar"
+        },
+        {
+          "path": "mods/ImmersiveUI-FABRIC-0.3.6+1.21.11.jar",
+          "sha1": "147ebf8a706b99241d476c8c5330f2633cc0a288",
+          "size": 209210,
+          "asset": "147ebf8a706b99241d476c8c5330f2633cc0a288.jar"
+        },
+        {
+          "path": "mods/iris-fabric-1.10.7+mc1.21.11.jar",
+          "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c",
+          "size": 2807547,
+          "asset": "aae8567bd9ea397d50aff1d0b680a82ffe67040c.jar"
+        },
+        {
+          "path": "mods/ItemPhysicLite_FABRIC_v1.6.11_mc1.21.11.jar",
+          "sha1": "ab7973e1e45d09ec4e4109a32e6aaec3179c6204",
+          "size": 26771,
+          "asset": "ab7973e1e45d09ec4e4109a32e6aaec3179c6204.jar"
+        },
+        {
+          "path": "mods/lambdynamiclights-4.9.1+1.21.11.jar",
+          "sha1": "f22487846158f62b3485a5a0723ba048326ac00f",
+          "size": 2144865,
+          "asset": "f22487846158f62b3485a5a0723ba048326ac00f.jar"
+        },
+        {
+          "path": "mods/language-reload-1.7.6+1.21.11.jar",
+          "sha1": "c11f4602348b2895a6c6c6649e3d7311e76bdc8d",
+          "size": 76876,
+          "asset": "c11f4602348b2895a6c6c6649e3d7311e76bdc8d.jar"
+        },
+        {
+          "path": "mods/lithium-fabric-0.21.4+mc1.21.11.jar",
+          "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
+          "size": 900462,
+          "asset": "203bdcb26e97b3217b045e1182651a7d7b6462ec.jar"
+        },
+        {
+          "path": "mods/modmenu-17.0.0.jar",
+          "sha1": "544a8b340ac3918d85bcc7d02eaff5372814354b",
+          "size": 1115809,
+          "asset": "544a8b340ac3918d85bcc7d02eaff5372814354b.jar"
+        },
+        {
+          "path": "mods/mru-1.0.26+edge+1.21.11-fabric.jar",
+          "sha1": "8b4d0803932c2edf6f521feb306bcd01a013a692",
+          "size": 94773,
+          "asset": "8b4d0803932c2edf6f521feb306bcd01a013a692.jar"
+        },
+        {
+          "path": "mods/notenoughanimations-fabric-1.12.3-mc1.21.11.jar",
+          "sha1": "54bfe89f0be0e6c9972e1e5f80a13cbd69736333",
+          "size": 1958510,
+          "asset": "54bfe89f0be0e6c9972e1e5f80a13cbd69736333.jar"
+        },
+        {
+          "path": "mods/particlerain-4.0.0-beta.10+1.21.11-fabric.jar",
+          "sha1": "2cdf97e6c42fe963f2128f280a36fdef38186b18",
+          "size": 608703,
+          "asset": "2cdf97e6c42fe963f2128f280a36fdef38186b18.jar"
+        },
+        {
+          "path": "mods/placeholder-api-2.8.2+1.21.10.jar",
+          "sha1": "bbdc920ecff993148cd6e81a208536132245ce40",
+          "size": 268662,
+          "asset": "bbdc920ecff993148cd6e81a208536132245ce40.jar"
+        },
+        {
+          "path": "mods/plasmovoice-fabric-1.21.11-2.1.16.jar",
+          "sha1": "8e6251cf56a7fde051ee43a3dbae703c99c78f04",
+          "size": 12337231,
+          "asset": "8e6251cf56a7fde051ee43a3dbae703c99c78f04.jar"
+        },
+        {
+          "path": "mods/PresenceFootsteps-1.12.3+1.21.11.jar",
+          "sha1": "56f9c5292679b22d908eb7da9753f13f0ea86f92",
+          "size": 5753935,
+          "asset": "56f9c5292679b22d908eb7da9753f13f0ea86f92.jar"
+        },
+        {
+          "path": "mods/ShatterLib-FABRIC-0.6.0.8+1.21.11.jar",
+          "sha1": "2c591be8990702aca214ac19c922422fd6725b81",
+          "size": 513942,
+          "asset": "2c591be8990702aca214ac19c922422fd6725b81.jar"
+        },
+        {
+          "path": "mods/shine-2.0.0.jar",
+          "sha1": "ad9a911eb2aa5991d460da7142e10c9f051298cb",
+          "size": 400071,
+          "asset": "ad9a911eb2aa5991d460da7142e10c9f051298cb.jar"
+        },
+        {
+          "path": "mods/shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
+          "sha1": "3f889de77a0aec69ffcfd28bf6fb2c077443788a",
+          "size": 389259,
+          "asset": "3f889de77a0aec69ffcfd28bf6fb2c077443788a.jar"
+        },
+        {
+          "path": "mods/skinlayers3d-fabric-1.11.1-mc1.21.11.jar",
+          "sha1": "a95c49c23db05d98d88e6a225894ca93e4e86b3c",
+          "size": 1971642,
+          "asset": "a95c49c23db05d98d88e6a225894ca93e4e86b3c.jar"
+        },
+        {
+          "path": "mods/smoothhud-1.21.6-1.21.11.jar",
+          "sha1": "d988959921c60d91ffe899d33a54d592db278f93",
+          "size": 54088,
+          "asset": "d988959921c60d91ffe899d33a54d592db278f93.jar"
+        },
+        {
+          "path": "mods/smoothscroll-2.6.7.jar",
+          "sha1": "e3f6418da6806b51093b1f6cf1ad0d3786252f63",
+          "size": 98910,
+          "asset": "e3f6418da6806b51093b1f6cf1ad0d3786252f63.jar"
+        },
+        {
+          "path": "mods/smoothskies-2.10.13+1.21.11-fabric.jar",
+          "sha1": "c9afb4da58497312db3f4fbfb0d9fecf3f797a3e",
+          "size": 136771,
+          "asset": "c9afb4da58497312db3f4fbfb0d9fecf3f797a3e.jar"
+        },
+        {
+          "path": "mods/sodium-fabric-0.8.12+mc1.21.11.jar",
+          "sha1": "4d80592bef36674e7469ae2737a7704b826289ae",
+          "size": 1905890,
+          "asset": "4d80592bef36674e7469ae2737a7704b826289ae.jar"
+        },
+        {
+          "path": "mods/sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+          "sha1": "f04c90b17094aaa849b147a42d4df9aa82d54ace",
+          "size": 203479,
+          "asset": "f04c90b17094aaa849b147a42d4df9aa82d54ace.jar"
+        },
+        {
+          "path": "mods/sounds-2.4.23+edge+1.21.11-fabric.jar",
+          "sha1": "92d93ee8f82e58646ea8db925e010bdef2a2556c",
+          "size": 8134500,
+          "asset": "92d93ee8f82e58646ea8db925e010bdef2a2556c.jar"
+        },
+        {
+          "path": "mods/visuality-0.7.13+1.21.11.jar",
+          "sha1": "1b40880769e72a419562bc072ac1bccf152275e6",
+          "size": 82033,
+          "asset": "1b40880769e72a419562bc072ac1bccf152275e6.jar"
+        },
+        {
+          "path": "mods/waveycapes-fabric-1.9.2-mc1.21.11.jar",
+          "sha1": "bc0a0d842e385b75902d9efa5a870db2d89aaa6b",
+          "size": 1847289,
+          "asset": "bc0a0d842e385b75902d9efa5a870db2d89aaa6b.jar"
+        },
+        {
+          "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+          "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+          "size": 1126948,
+          "asset": "f99cda70903f16dd6927a276150b2762b4d5ab66.jar"
+        },
+        {
+          "path": "mods/zoomify-2.15.2+1.21.11.jar",
+          "sha1": "e1f738a9026e9f087d96861935f994b010b8131a",
+          "size": 873443,
+          "asset": "e1f738a9026e9f087d96861935f994b010b8131a.jar"
+        }
+      ],
       "releaseTag": "ev-vvbt-2-fef196",
       "createdAt": "2026-11-05T20:34:06.832Z",
       "backgroundAsset": "background-87b600ac57bebc4d94a2bbe349ea10cca20b05d1.png",
