@@ -138,7 +138,7 @@
       "id": "vvbt-2-fef196",
       "name": "VVBT 2",
       "tag": "Solo invitados",
-      "description": "Servidor Survival SMP de algunos miembros de 3AM, Vitto, Valen, Benja y Tizi en su edición numero 2.",
+      "description": "La VVBT 2 es un servidor de rol/guerra/SMP y pranks, este servidor se creo gracias a los miembros de 3am Vitto, Valen, Benja y Tizi.",
       "mcVersion": "1.21.11",
       "loader": "fabric",
       "loaderVersion": "",
@@ -459,7 +459,7 @@
       "createdAt": "2026-11-05T20:34:06.832Z",
       "backgroundAsset": "background-87b600ac57bebc4d94a2bbe349ea10cca20b05d1.png",
       "iconAsset": "icon-0eed87abd1dfe22f9535ed697b19627335ff5258.png",
-      "updatedAt": "2026-11-08T03:21:13.494Z"
+      "updatedAt": "2026-11-08T04:23:37.848Z"
     }
   ]
 }
