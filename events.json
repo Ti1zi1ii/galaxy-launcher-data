@@ -164,7 +164,7 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/background-87b600ac57bebc4d94a2bbe349ea10cca20b05d1.png",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/icon-0eed87abd1dfe22f9535ed697b19627335ff5258.png",
       "order": 1,
-      "filesVersion": 7,
+      "filesVersion": 8,
       "files": [
         {
           "path": "Essential_1-3-10-9_fabric_1-21-11.jar.disabled",
@@ -465,6 +465,18 @@
           "sha1": "bc0a0d842e385b75902d9efa5a870db2d89aaa6b",
           "size": 1847289,
           "asset": "bc0a0d842e385b75902d9efa5a870db2d89aaa6b.jar"
+        },
+        {
+          "path": "mods/xaerominimap-fabric-1.21.11-26.6.2.jar",
+          "sha1": "cb549e981daaa7f741e474eb054cb50701a64a30",
+          "size": 2204205,
+          "asset": "cb549e981daaa7f741e474eb054cb50701a64a30.jar"
+        },
+        {
+          "path": "mods/xaeroworldmap-fabric-1.21.11-1.47.2.jar",
+          "sha1": "2d872b1bda7ba6549802305182a439c51dae1dab",
+          "size": 1473335,
+          "asset": "2d872b1bda7ba6549802305182a439c51dae1dab.jar"
         },
         {
           "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
