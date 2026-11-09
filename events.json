@@ -164,8 +164,14 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/background-87b600ac57bebc4d94a2bbe349ea10cca20b05d1.png",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/icon-0eed87abd1dfe22f9535ed697b19627335ff5258.png",
       "order": 1,
-      "filesVersion": 4,
+      "filesVersion": 5,
       "files": [
+        {
+          "path": "Essential_1-3-10-9_fabric_1-21-11.jar.disabled",
+          "sha1": "6c3cbfdfd640730b17a432deb52e887c3cdbfddd",
+          "size": 53071851,
+          "asset": "6c3cbfdfd640730b17a432deb52e887c3cdbfddd.disabled"
+        },
         {
           "path": "mods/3d-armor-0.9.4.1-mod.jar",
           "sha1": "24eebd039a423baa00cc8289283ea4003804a145",
@@ -441,6 +447,12 @@
           "sha1": "514a1f380d46ce343866a8e6cc448143d7cd0ef9",
           "size": 344851,
           "asset": "514a1f380d46ce343866a8e6cc448143d7cd0ef9.jar"
+        },
+        {
+          "path": "mods/Vvbt2mod-1.0.0.jar",
+          "sha1": "b3d67d10a1a4840cd38d30e657fa7ee8cde05bfc",
+          "size": 298139,
+          "asset": "b3d67d10a1a4840cd38d30e657fa7ee8cde05bfc.jar"
         },
         {
           "path": "mods/waveycapes-fabric-1.9.2-mc1.21.11.jar",
