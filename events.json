@@ -164,7 +164,7 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/background-87b600ac57bebc4d94a2bbe349ea10cca20b05d1.png",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/icon-0eed87abd1dfe22f9535ed697b19627335ff5258.png",
       "order": 1,
-      "filesVersion": 6,
+      "filesVersion": 7,
       "files": [
         {
           "path": "Essential_1-3-10-9_fabric_1-21-11.jar.disabled",
@@ -437,6 +437,12 @@
           "asset": "92d93ee8f82e58646ea8db925e010bdef2a2556c.jar"
         },
         {
+          "path": "mods/timermod-1.20.1-1.0.0.jar",
+          "sha1": "0d9951ddf2ba33c9eaf3a70e83f3197583943e85",
+          "size": 17922,
+          "asset": "0d9951ddf2ba33c9eaf3a70e83f3197583943e85.jar"
+        },
+        {
           "path": "mods/visuality-0.7.13+1.21.11.jar",
           "sha1": "1b40880769e72a419562bc072ac1bccf152275e6",
           "size": 82033,
@@ -450,9 +456,9 @@
         },
         {
           "path": "mods/Vvbt2mod-1.0.0.jar",
-          "sha1": "b3d67d10a1a4840cd38d30e657fa7ee8cde05bfc",
-          "size": 298139,
-          "asset": "b3d67d10a1a4840cd38d30e657fa7ee8cde05bfc.jar"
+          "sha1": "82ea82ac3403c956de6ec47b8c46b604107cce00",
+          "size": 306322,
+          "asset": "82ea82ac3403c956de6ec47b8c46b604107cce00.jar"
         },
         {
           "path": "mods/waveycapes-fabric-1.9.2-mc1.21.11.jar",
