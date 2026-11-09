@@ -164,7 +164,7 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/background-87b600ac57bebc4d94a2bbe349ea10cca20b05d1.png",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/icon-0eed87abd1dfe22f9535ed697b19627335ff5258.png",
       "order": 1,
-      "filesVersion": 3,
+      "filesVersion": 4,
       "files": [
         {
           "path": "mods/3d-armor-0.9.4.1-mod.jar",
