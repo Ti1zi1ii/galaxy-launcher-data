@@ -158,7 +158,13 @@
       "strictFolders": [
         "mods"
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "Un nuevo inicio.",
+          "text": "Hoy es el comienzo de la segunda parte de esta hermosa historia de nuestro querido servidor VVBT en su segunda parte donde su historia puede cambiar.",
+          "date": "2026-11-10T00:01:49.598Z"
+        }
+      ],
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/background-87b600ac57bebc4d94a2bbe349ea10cca20b05d1.png",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/icon-0eed87abd1dfe22f9535ed697b19627335ff5258.png",
       "order": 1,
@@ -487,7 +493,7 @@
       "createdAt": "2026-11-05T20:34:06.832Z",
       "backgroundAsset": "background-87b600ac57bebc4d94a2bbe349ea10cca20b05d1.png",
       "iconAsset": "icon-0eed87abd1dfe22f9535ed697b19627335ff5258.png",
-      "updatedAt": "2026-11-10T00:01:44.634Z"
+      "updatedAt": "2026-11-10T00:03:58.994Z"
     }
   ]
 }
