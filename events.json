@@ -579,6 +579,33 @@
       "backgroundAsset": "background-5484ac778380acf266a3e7089eb342106237c39e.png",
       "iconAsset": "icon-a30e7fbada581ac06172f8ab8b2903440c4b2d85.png",
       "updatedAt": "2026-11-11T00:10:24.539Z"
+    },
+    {
+      "id": "vt-tv-39d5a5",
+      "name": "VT - TV",
+      "tag": "Solo invitados",
+      "description": "",
+      "mcVersion": "1.20.1",
+      "loader": "forge",
+      "loaderVersion": "",
+      "serverHost": "",
+      "serverPort": 25565,
+      "access": "invite",
+      "invited": [],
+      "visible": true,
+      "status": "activo",
+      "recommendedRamMB": 6144,
+      "strictFolders": [
+        "mods"
+      ],
+      "news": [],
+      "background": "",
+      "icon": "",
+      "order": 3,
+      "filesVersion": 0,
+      "files": [],
+      "releaseTag": "ev-vt-tv-39d5a5",
+      "createdAt": "2026-11-11T00:35:02.269Z"
     }
   ]
 }
