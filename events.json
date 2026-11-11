@@ -591,7 +591,9 @@
       "serverHost": "",
       "serverPort": 25565,
       "access": "invite",
-      "invited": [],
+      "invited": [
+        "valenzuki"
+      ],
       "visible": true,
       "status": "activo",
       "recommendedRamMB": 6144,
@@ -801,7 +803,7 @@
       "createdAt": "2026-11-11T00:35:02.269Z",
       "iconAsset": "icon-058541d47339fb6a32c748fb0e38c197370ff203.png",
       "backgroundAsset": "background-76d6e28d3a30a31284769cadde0eec4e2ca87f56.jpg",
-      "updatedAt": "2026-11-11T01:05:42.925Z"
+      "updatedAt": "2026-11-11T01:27:09.856Z"
     }
   ]
 }
