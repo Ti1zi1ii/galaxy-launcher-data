@@ -604,7 +604,7 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vt-tv-39d5a5/background-76d6e28d3a30a31284769cadde0eec4e2ca87f56.jpg",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vt-tv-39d5a5/icon-058541d47339fb6a32c748fb0e38c197370ff203.png",
       "order": 3,
-      "filesVersion": 3,
+      "filesVersion": 4,
       "files": [
         {
           "path": "mods/appleskin-fabric-mc1.19.4-2.5.1.jar",
@@ -689,6 +689,12 @@
           "sha1": "8792704097d80bb863badc8ae7562133e7e2584f",
           "size": 317558,
           "asset": "8792704097d80bb863badc8ae7562133e7e2584f.jar"
+        },
+        {
+          "path": "mods/futbolmod-1.1.0.jar",
+          "sha1": "e01e32b09bf548994a866bb9a4c15fb2ad79aaba",
+          "size": 479892,
+          "asset": "e01e32b09bf548994a866bb9a4c15fb2ad79aaba.jar"
         },
         {
           "path": "mods/jei-1.19.4-fabric-13.1.0.19.jar",
