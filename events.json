@@ -604,7 +604,7 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vt-tv-39d5a5/background-76d6e28d3a30a31284769cadde0eec4e2ca87f56.jpg",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vt-tv-39d5a5/icon-058541d47339fb6a32c748fb0e38c197370ff203.png",
       "order": 3,
-      "filesVersion": 1,
+      "filesVersion": 2,
       "files": [
         {
           "path": "mods/appleskin-fabric-mc1.19.4-2.5.1.jar",
@@ -653,6 +653,12 @@
           "sha1": "74c463a1328ac1113ef16d41aa35616fead9f4fb",
           "size": 1517084,
           "asset": "74c463a1328ac1113ef16d41aa35616fead9f4fb.jar"
+        },
+        {
+          "path": "mods/explosion-epica-1.0.0.jar",
+          "sha1": "dd55663aaa5af1952fc0e95c4b5c5018eb80a9d3",
+          "size": 15608,
+          "asset": "dd55663aaa5af1952fc0e95c4b5c5018eb80a9d3.jar"
         },
         {
           "path": "mods/fabric-api-0.87.2+1.19.4.jar",
