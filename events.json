@@ -517,8 +517,63 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-inestable-smp-2-6c3e5a/background-5484ac778380acf266a3e7089eb342106237c39e.png",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-inestable-smp-2-6c3e5a/icon-a30e7fbada581ac06172f8ab8b2903440c4b2d85.png",
       "order": 2,
-      "filesVersion": 0,
-      "files": [],
+      "filesVersion": 1,
+      "files": [
+        {
+          "path": "mods/artifacts-1.12.2-1.2.4.jar",
+          "sha1": "94d818e584fb044d4d11262134033d8119cee510",
+          "size": 254421,
+          "asset": "94d818e584fb044d4d11262134033d8119cee510.jar"
+        },
+        {
+          "path": "mods/Baubles-1.12-1.5.2.jar",
+          "sha1": "cb13fcfb18a9cb0cbd825fd5fe8d813c77368549",
+          "size": 108450,
+          "asset": "cb13fcfb18a9cb0cbd825fd5fe8d813c77368549.jar"
+        },
+        {
+          "path": "mods/coroutil-1.12.1-1.2.37.jar",
+          "sha1": "90392789dfbcadf440415a775d3ec81326deee2f",
+          "size": 2327451,
+          "asset": "90392789dfbcadf440415a775d3ec81326deee2f.jar"
+        },
+        {
+          "path": "mods/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+          "sha1": "3d5d62c9d44517991d19e165d2051209b2d06bf3",
+          "size": 15929762,
+          "asset": "3d5d62c9d44517991d19e165d2051209b2d06bf3.jar"
+        },
+        {
+          "path": "mods/jei_1.12.2-4.22.0.1034.jar",
+          "sha1": "9330ec3e1df6c7bae281a6e7168567fbe1e816f7",
+          "size": 715518,
+          "asset": "9330ec3e1df6c7bae281a6e7168567fbe1e816f7.jar"
+        },
+        {
+          "path": "mods/MoBends_1.12.2-2.0.0-alpha.2.jar",
+          "sha1": "65d8f5607413add3dab0c9f3ca346822431706c7",
+          "size": 1577926,
+          "asset": "65d8f5607413add3dab0c9f3ca346822431706c7.jar"
+        },
+        {
+          "path": "mods/OreLib-1.12.2-3.6.0.1.jar",
+          "sha1": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8",
+          "size": 341728,
+          "asset": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8.jar"
+        },
+        {
+          "path": "mods/VoiceChatReloaded-1.12.2-1.3.0.jar",
+          "sha1": "54a0eb2e88dfaf2e31b3f74d9511b62882bc6c2c",
+          "size": 423808,
+          "asset": "54a0eb2e88dfaf2e31b3f74d9511b62882bc6c2c.jar"
+        },
+        {
+          "path": "mods/weather2-1.12.1-2.6.12.jar",
+          "sha1": "894fa38627f7d11bfe8ea11f3aa6fb5901d73abe",
+          "size": 4550732,
+          "asset": "894fa38627f7d11bfe8ea11f3aa6fb5901d73abe.jar"
+        }
+      ],
       "releaseTag": "ev-inestable-smp-2-6c3e5a",
       "createdAt": "2026-11-11T00:05:42.840Z",
       "backgroundAsset": "background-5484ac778380acf266a3e7089eb342106237c39e.png",
