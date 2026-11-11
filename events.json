@@ -602,8 +602,201 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vt-tv-39d5a5/background-76d6e28d3a30a31284769cadde0eec4e2ca87f56.jpg",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vt-tv-39d5a5/icon-058541d47339fb6a32c748fb0e38c197370ff203.png",
       "order": 3,
-      "filesVersion": 0,
-      "files": [],
+      "filesVersion": 1,
+      "files": [
+        {
+          "path": "mods/appleskin-fabric-mc1.19.4-2.5.1.jar",
+          "sha1": "702e8f1e14734e24128d7f854988a19c7ab76170",
+          "size": 1062919,
+          "asset": "702e8f1e14734e24128d7f854988a19c7ab76170.jar"
+        },
+        {
+          "path": "mods/BetterPingDisplay-Fabric-1.19.4-1.1.1.jar",
+          "sha1": "cc9fca838b1c92451c795193945cf38a176dbb3b",
+          "size": 16270,
+          "asset": "cc9fca838b1c92451c795193945cf38a176dbb3b.jar"
+        },
+        {
+          "path": "mods/cloth-config-10.0.96-fabric.jar",
+          "sha1": "9bd3ad20afbcd4622d194853aa8e03c4f9d9050f",
+          "size": 1146510,
+          "asset": "9bd3ad20afbcd4622d194853aa8e03c4f9d9050f.jar"
+        },
+        {
+          "path": "mods/CustomSkinLoader_Universal-15.1.jar",
+          "sha1": "324e6921ecd576e44875981466e7f22170b6541a",
+          "size": 222917,
+          "asset": "324e6921ecd576e44875981466e7f22170b6541a.jar"
+        },
+        {
+          "path": "mods/Drip Sounds-0.5.2+1.19.4-Fabric.jar",
+          "sha1": "8df43f73da9183f0a34536dc9671c5c941a70304",
+          "size": 57587,
+          "asset": "8df43f73da9183f0a34536dc9671c5c941a70304.jar"
+        },
+        {
+          "path": "mods/dynamiccrosshair-6.3+1.19.4-fabric.jar",
+          "sha1": "b5ce8ab70b29037fe3ec9f5cc73c84a959a6e1b5",
+          "size": 258697,
+          "asset": "b5ce8ab70b29037fe3ec9f5cc73c84a959a6e1b5.jar"
+        },
+        {
+          "path": "mods/eating-animation-1.9.3.jar",
+          "sha1": "2fe61b0089e04ec98d104102369e6a525e5fb097",
+          "size": 991028,
+          "asset": "2fe61b0089e04ec98d104102369e6a525e5fb097.jar"
+        },
+        {
+          "path": "mods/entityculling-fabric-1.11.3-mc1.19.4.jar",
+          "sha1": "74c463a1328ac1113ef16d41aa35616fead9f4fb",
+          "size": 1517084,
+          "asset": "74c463a1328ac1113ef16d41aa35616fead9f4fb.jar"
+        },
+        {
+          "path": "mods/fabric-api-0.87.2+1.19.4.jar",
+          "sha1": "586ac174c831da9fd35edce1e36eb14c7f878ce3",
+          "size": 2055860,
+          "asset": "586ac174c831da9fd35edce1e36eb14c7f878ce3.jar"
+        },
+        {
+          "path": "mods/fabric-language-kotlin-1.10.8+kotlin.1.9.0.jar",
+          "sha1": "06a973a9e97b6dc673dfc1c519f2118dcb068690",
+          "size": 6713120,
+          "asset": "06a973a9e97b6dc673dfc1c519f2118dcb068690.jar"
+        },
+        {
+          "path": "mods/fastquit-2.1.0+1.19.3.jar",
+          "sha1": "5d654a6bcba251d7619cea6053c5eeaf56a3fa0a",
+          "size": 73758,
+          "asset": "5d654a6bcba251d7619cea6053c5eeaf56a3fa0a.jar"
+        },
+        {
+          "path": "mods/ferritecore-5.2.0-fabric.jar",
+          "sha1": "ed6fa9a9365d4e58db6703479a44cc6aed5add2f",
+          "size": 124924,
+          "asset": "ed6fa9a9365d4e58db6703479a44cc6aed5add2f.jar"
+        },
+        {
+          "path": "mods/jei-1.19.4-fabric-13.1.0.19.jar",
+          "sha1": "aa0736011553c4dc9bb1e0618ccd609a10f3d167",
+          "size": 1110307,
+          "asset": "aa0736011553c4dc9bb1e0618ccd609a10f3d167.jar"
+        },
+        {
+          "path": "mods/lambdynamiclights-2.3.1+1.19.4.jar",
+          "sha1": "615407f4a51d7af6ceb34e4f708d07ec79d44ef5",
+          "size": 565922,
+          "asset": "615407f4a51d7af6ceb34e4f708d07ec79d44ef5.jar"
+        },
+        {
+          "path": "mods/lithium-fabric-mc1.19.4-0.11.1.jar",
+          "sha1": "69aa137957af4f0f701f6a7663c6d8646f84a1cc",
+          "size": 639391,
+          "asset": "69aa137957af4f0f701f6a7663c6d8646f84a1cc.jar"
+        },
+        {
+          "path": "mods/modmenu-6.3.1.jar",
+          "sha1": "ab2736e00597ba8b11e4f58573eb49c79e0417b4",
+          "size": 725106,
+          "asset": "ab2736e00597ba8b11e4f58573eb49c79e0417b4.jar"
+        },
+        {
+          "path": "mods/notenoughanimations-fabric-1.12.7-mc1.19.4.jar",
+          "sha1": "02709c90cc2a812e2e680e29121685c06c3d5ca6",
+          "size": 1873182,
+          "asset": "02709c90cc2a812e2e680e29121685c06c3d5ca6.jar"
+        },
+        {
+          "path": "mods/particle-rain-2.1.5.jar",
+          "sha1": "a9add011cad019998383841d8715ea50fa675536",
+          "size": 720329,
+          "asset": "a9add011cad019998383841d8715ea50fa675536.jar"
+        },
+        {
+          "path": "mods/shulkerboxtooltip-fabric-3.4.5+1.19.4.jar",
+          "sha1": "7a426ef6a22b5832eab7f2bd17291a4f2ae3cd69",
+          "size": 1212697,
+          "asset": "7a426ef6a22b5832eab7f2bd17291a4f2ae3cd69.jar"
+        },
+        {
+          "path": "mods/skinlayers3d-fabric-1.11.4-mc1.19.4.jar",
+          "sha1": "de56ab7a3cae252053b987307101e9efeda19fa4",
+          "size": 1910148,
+          "asset": "de56ab7a3cae252053b987307101e9efeda19fa4.jar"
+        },
+        {
+          "path": "mods/smoothswapping-0.9.2-1.19.4-fabric.jar",
+          "sha1": "4a3b8e29879dab62d4fc3a780ab8ecc8e83c5d48",
+          "size": 60457,
+          "asset": "4a3b8e29879dab62d4fc3a780ab8ecc8e83c5d48.jar"
+        },
+        {
+          "path": "mods/sodium-fabric-mc1.19.4-0.4.10+build.24.jar",
+          "sha1": "b060680929d7a6d130fb980a9f9907461df05fa1",
+          "size": 711302,
+          "asset": "b060680929d7a6d130fb980a9f9907461df05fa1.jar"
+        },
+        {
+          "path": "mods/soundphysics-fabric-1.19.4-1.1.1.jar",
+          "sha1": "70a3300d7a7dc297b3ae5ffb5164d19f6904d8f8",
+          "size": 126472,
+          "asset": "70a3300d7a7dc297b3ae5ffb5164d19f6904d8f8.jar"
+        },
+        {
+          "path": "mods/tia-1.19.4-1.0-fabric.jar",
+          "sha1": "92b6222e251c8afbdd5e6947ebcbf1e055c721c0",
+          "size": 18774,
+          "asset": "92b6222e251c8afbdd5e6947ebcbf1e055c721c0.jar"
+        },
+        {
+          "path": "mods/vex-death-effect-1.0.0.jar",
+          "sha1": "825359541ecf304f9b2cd3c3fee6c4cfd2f86bb2",
+          "size": 93538,
+          "asset": "825359541ecf304f9b2cd3c3fee6c4cfd2f86bb2.jar"
+        },
+        {
+          "path": "mods/visuality-0.7.0.jar",
+          "sha1": "359dc8a0e0b8d44ddf5d797729a6cbbe5da4d512",
+          "size": 66986,
+          "asset": "359dc8a0e0b8d44ddf5d797729a6cbbe5da4d512.jar"
+        },
+        {
+          "path": "mods/voicechat-fabric-1.19.4-2.5.12.jar",
+          "sha1": "e3a8f492090eef4ba234e889b116997c4f31dc64",
+          "size": 8045970,
+          "asset": "e3a8f492090eef4ba234e889b116997c4f31dc64.jar"
+        },
+        {
+          "path": "mods/waveycapes-fabric-1.11.3-mc1.19.4.jar",
+          "sha1": "62fc48e36fc944b7f1fa6575afe26c18b8c6bf59",
+          "size": 1780713,
+          "asset": "62fc48e36fc944b7f1fa6575afe26c18b8c6bf59.jar"
+        },
+        {
+          "path": "mods/Xaeros_Minimap_25.2.10_Fabric_1.19.4.jar",
+          "sha1": "829cbcab3ba983a61c323faaa6ed448d25bbbc71",
+          "size": 1738033,
+          "asset": "829cbcab3ba983a61c323faaa6ed448d25bbbc71.jar"
+        },
+        {
+          "path": "mods/XaerosWorldMap_1.39.12_Fabric_1.19.4.jar",
+          "sha1": "0ac78b0a7c1967c99f966274c30a738191268e31",
+          "size": 973609,
+          "asset": "0ac78b0a7c1967c99f966274c30a738191268e31.jar"
+        },
+        {
+          "path": "mods/yet-another-config-lib-fabric-3.1.0+1.19.4.jar",
+          "sha1": "ed5571926a68906eac5dcb5c52752f5f71dfe6e2",
+          "size": 994333,
+          "asset": "ed5571926a68906eac5dcb5c52752f5f71dfe6e2.jar"
+        },
+        {
+          "path": "mods/Zoomify-2.9.4.jar",
+          "sha1": "f53f08dccb4c6ee6f5f082d361ba0057bfcd1bbb",
+          "size": 656151,
+          "asset": "f53f08dccb4c6ee6f5f082d361ba0057bfcd1bbb.jar"
+        }
+      ],
       "releaseTag": "ev-vt-tv-39d5a5",
       "createdAt": "2026-11-11T00:35:02.269Z",
       "iconAsset": "icon-058541d47339fb6a32c748fb0e38c197370ff203.png",
