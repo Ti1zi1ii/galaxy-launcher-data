@@ -600,12 +600,13 @@
       ],
       "news": [],
       "background": "",
-      "icon": "",
+      "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vt-tv-39d5a5/icon-058541d47339fb6a32c748fb0e38c197370ff203.png",
       "order": 3,
       "filesVersion": 0,
       "files": [],
       "releaseTag": "ev-vt-tv-39d5a5",
-      "createdAt": "2026-11-11T00:35:02.269Z"
+      "createdAt": "2026-11-11T00:35:02.269Z",
+      "iconAsset": "icon-058541d47339fb6a32c748fb0e38c197370ff203.png"
     }
   ]
 }
