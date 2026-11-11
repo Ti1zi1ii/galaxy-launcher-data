@@ -514,13 +514,14 @@
         "mods"
       ],
       "news": [],
-      "background": "",
+      "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-inestable-smp-2-6c3e5a/background-5484ac778380acf266a3e7089eb342106237c39e.png",
       "icon": "",
       "order": 2,
       "filesVersion": 0,
       "files": [],
       "releaseTag": "ev-inestable-smp-2-6c3e5a",
-      "createdAt": "2026-11-11T00:05:42.840Z"
+      "createdAt": "2026-11-11T00:05:42.840Z",
+      "backgroundAsset": "background-5484ac778380acf266a3e7089eb342106237c39e.png"
     }
   ]
 }
