@@ -172,7 +172,7 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/background-647cb9fb484f1ef80e0d58daeec07c2a0880a167.jpg",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/icon-0eed87abd1dfe22f9535ed697b19627335ff5258.png",
       "order": 1,
-      "filesVersion": 14,
+      "filesVersion": 15,
       "files": [
         {
           "path": "Essential_1-3-10-9_fabric_1-21-11.jar.disabled",
@@ -377,6 +377,12 @@
           "sha1": "8e6251cf56a7fde051ee43a3dbae703c99c78f04",
           "size": 12337231,
           "asset": "8e6251cf56a7fde051ee43a3dbae703c99c78f04.jar"
+        },
+        {
+          "path": "mods/plasmovoice-fabric-1.21.11-2.2.0-beta.3.jar",
+          "sha1": "0e56ab8ddca3d215a4b8ace8296dbe9a50b5e809",
+          "size": 14474067,
+          "asset": "0e56ab8ddca3d215a4b8ace8296dbe9a50b5e809.jar"
         },
         {
           "path": "mods/PresenceFootsteps-1.12.3+1.21.11.jar",
