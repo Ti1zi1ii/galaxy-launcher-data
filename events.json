@@ -172,8 +172,14 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/background-647cb9fb484f1ef80e0d58daeec07c2a0880a167.jpg",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/icon-0eed87abd1dfe22f9535ed697b19627335ff5258.png",
       "order": 1,
-      "filesVersion": 13,
+      "filesVersion": 14,
       "files": [
+        {
+          "path": "Essential_1-3-10-9_fabric_1-21-11.jar.disabled",
+          "sha1": "6c3cbfdfd640730b17a432deb52e887c3cdbfddd",
+          "size": 53071851,
+          "asset": "6c3cbfdfd640730b17a432deb52e887c3cdbfddd.disabled"
+        },
         {
           "path": "mods/3d-armor-0.9.4.1-mod.jar",
           "sha1": "24eebd039a423baa00cc8289283ea4003804a145",
@@ -452,9 +458,9 @@
         },
         {
           "path": "mods/vvbt-index-2026-1.0.0.jar",
-          "sha1": "dade5964acac76d8d34387eb362a59cb99ca2e44",
-          "size": 167938,
-          "asset": "dade5964acac76d8d34387eb362a59cb99ca2e44.jar"
+          "sha1": "df30c0e293d909e4060d997fac3093abd09ca993",
+          "size": 183406,
+          "asset": "df30c0e293d909e4060d997fac3093abd09ca993.jar"
         },
         {
           "path": "mods/vvbt-menu-1.0.0.jar",
