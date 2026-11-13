@@ -172,7 +172,7 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/background-647cb9fb484f1ef80e0d58daeec07c2a0880a167.jpg",
       "icon": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-vvbt-2-fef196/icon-0eed87abd1dfe22f9535ed697b19627335ff5258.png",
       "order": 1,
-      "filesVersion": 16,
+      "filesVersion": 17,
       "files": [
         {
           "path": "mods/3d-armor-0.9.4.1-mod.jar",
@@ -365,12 +365,6 @@
           "sha1": "bbdc920ecff993148cd6e81a208536132245ce40",
           "size": 268662,
           "asset": "bbdc920ecff993148cd6e81a208536132245ce40.jar"
-        },
-        {
-          "path": "mods/plasmovoice-fabric-1.21.11-2.1.16.jar",
-          "sha1": "8e6251cf56a7fde051ee43a3dbae703c99c78f04",
-          "size": 12337231,
-          "asset": "8e6251cf56a7fde051ee43a3dbae703c99c78f04.jar"
         },
         {
           "path": "mods/plasmovoice-fabric-1.21.11-2.2.0-beta.3.jar",
