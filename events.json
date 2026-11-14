@@ -23,7 +23,7 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-tizafio-2-4631c7/background-ad5cbb883f6de7e229e885a287838cd597f2da72.png",
       "icon": "https://github.com/tiziypunto0-dotcom/galaxy-launcher-data/releases/download/ev-tizafio-2-4631c7/icon-5262d4393cf6bab379add806e79a86efc8e2ddd5.png",
       "order": 0,
-      "filesVersion": 10,
+      "filesVersion": 11,
       "files": [
         {
           "path": "mods/cloth-config-11.1.136-forge.jar",
@@ -111,9 +111,9 @@
         },
         {
           "path": "mods/tizafio2-1.20.1-1.0.0.jar",
-          "sha1": "1c2545b56de67e245c7af07f7d8fe0cfa5bad829",
-          "size": 71877,
-          "asset": "1c2545b56de67e245c7af07f7d8fe0cfa5bad829.jar"
+          "sha1": "b05a3d05431bca20437061b67dce2fd1a7835482",
+          "size": 130172,
+          "asset": "b05a3d05431bca20437061b67dce2fd1a7835482.jar"
         },
         {
           "path": "mods/visuality-forge-2.2.0.jar",
