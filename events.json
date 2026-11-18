@@ -23,7 +23,7 @@
       "background": "https://github.com/Ti1zi1ii/galaxy-launcher-data/releases/download/ev-tizafio-2-4631c7/background-ad5cbb883f6de7e229e885a287838cd597f2da72.png",
       "icon": "https://github.com/tiziypunto0-dotcom/galaxy-launcher-data/releases/download/ev-tizafio-2-4631c7/icon-5262d4393cf6bab379add806e79a86efc8e2ddd5.png",
       "order": 0,
-      "filesVersion": 17,
+      "filesVersion": 18,
       "files": [
         {
           "path": "mods/cloth-config-11.1.136-forge.jar",
@@ -80,6 +80,12 @@
           "asset": "e0942d396a70c09038e6c2e5e1da6505178249b8.jar"
         },
         {
+          "path": "mods/Patchouli-1.20.1-85-FORGE.jar",
+          "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+          "size": 642732,
+          "asset": "d4614507d6e4c7cb464bba5eca891978272062ef.jar"
+        },
+        {
           "path": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
           "sha1": "4bc816efdd8e5e2a97423313674401351710e403",
           "size": 671605,
@@ -111,9 +117,9 @@
         },
         {
           "path": "mods/tizafio2-1.20.1-1.0.0.jar",
-          "sha1": "74974710054ef447859aefe2eb9048383f05006f",
-          "size": 216725,
-          "asset": "74974710054ef447859aefe2eb9048383f05006f.jar"
+          "sha1": "e689b398700afaa25c9f195a67b9f1c6f79f8fb2",
+          "size": 219789,
+          "asset": "e689b398700afaa25c9f195a67b9f1c6f79f8fb2.jar"
         },
         {
           "path": "mods/visuality-forge-2.2.0.jar",
